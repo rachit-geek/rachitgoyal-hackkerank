@@ -1,0 +1,2 @@
+# rachitgoyal-hackkerank
+on arrays
